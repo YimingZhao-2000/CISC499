@@ -8,6 +8,6 @@
     >- Articles
 - Source of Data
     >- [Nasdaq Historical Data](https://www.nasdaq.com/market-activity/stocks/ea/historical)
-    >- News
-    >- Press release
+    >- [News](https://www.nasdaq.com/market-activity/stocks/ea/news-headlines)
+    >- [Press release](https://www.nasdaq.com/market-activity/stocks/ea/press-releases)
     >- Analyst Research
