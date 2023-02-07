@@ -17,8 +17,9 @@ ipython = "*"
 jupyter = "*"
 ipykernel = "*"
 keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.10.9"
