@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+seaborn = "*"
+numpy = "*"
+missingno = "*"
+plotly-express = "*"
+scipy = "*"
+matplotlib = "*"
+scikit-learn = "*"
+yellowbrick = "*"
+ipython = "*"
+jupyter = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
