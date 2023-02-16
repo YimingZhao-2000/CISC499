@@ -18,6 +18,9 @@ jupyter = "*"
 ipykernel = "*"
 keras = "*"
 tensorflow = "*"
+requests = "*"
+bs4 = "*"
+selenium = "*"
 
 [dev-packages]
 
