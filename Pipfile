@@ -21,6 +21,14 @@ tensorflow = "*"
 requests = "*"
 bs4 = "*"
 selenium = "*"
+datetime = "*"
+lime = "*"
+shap = "*"
+pystan = "*"
+prophet = "*"
+plotly = "*"
+graphviz = "*"
+interpret = "*"
 
 [dev-packages]
 

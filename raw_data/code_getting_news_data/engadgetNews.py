@@ -21,7 +21,7 @@ base_url = "https://search.engadget.com/search?p=ea+electronic+arts&ei=UTF-8&fr=
 num_pages = 99
 
 # Write the data into a csv
-with open('ea_engadget.csv', 'a+', encoding='utf8', newline='') as f: # f shortform for file, a+ append and create if file not exist
+with open('../ea_engadget.csv', 'a+', encoding='utf8', newline='') as f: # f shortform for file, a+ append and create if file not exist
 # with open('ntd_engadget.csv', 'a+', encoding='utf8', newline='') as f: # f shortform for file, a+ append and create if file not exist
     thewriter = writer(f)
     header = ['title', 'author', 'date', 'lure', 'link']
